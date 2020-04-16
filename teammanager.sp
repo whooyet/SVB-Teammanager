@@ -20,7 +20,7 @@ public Plugin myinfo =
 	name = "Teammanager",
 	author = "Arthurdead",
 	description = "Api pra coisas de time",
-	version = "1.0",
+	version = "$$GIT_COMMIT$$",
 	url = ""
 };
 
