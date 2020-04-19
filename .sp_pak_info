@@ -1,0 +1,5 @@
+{
+	"depends": [
+		"dhooks2-dynhooks"
+	]
+}
