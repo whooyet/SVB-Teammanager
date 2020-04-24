@@ -1,5 +1,5 @@
 {
 	"depends": [
-		"dhooks2-dynhooks"
+		"DHooks2"
 	]
 }
